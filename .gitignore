@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local game data
+pingpong_settings.json
+pingpong_leaderboard.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

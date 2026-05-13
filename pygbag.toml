@@ -1,0 +1,6 @@
+[tool.pygbag]
+build_dir = "build/web"
+title = "Ping Pong Arena"
+author = "LOL"
+icon = ""
+version = "1.0"
